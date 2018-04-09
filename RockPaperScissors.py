@@ -1,7 +1,7 @@
 import random
 
 
-#Rock, Paper, Scissors Game variables & lists
+#Rock, Paper, Scissors Game: variables & lists
 human = ""
 computer = ""
 choices = ["Rock", "Paper", "Scissors"]
